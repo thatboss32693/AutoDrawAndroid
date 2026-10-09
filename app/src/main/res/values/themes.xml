@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AutoSketch 主题 -->
+    <style name="Theme.AutoSketch" parent="@style/Theme.Material3.DarkContrast">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorSecondary">@color/accent_cyan</item>
+        <item name="colorTertiary">@color/accent_purple</item>
+        <item name="android:colorBackground">@color/deep_blue</item>
+        <item name="colorSurface">@color/panel_dark</item>
+        <item name="android:statusBarColor">@color/deep_blue</item>
+        <item name="android:navigationBarColor">@color/deep_blue</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
